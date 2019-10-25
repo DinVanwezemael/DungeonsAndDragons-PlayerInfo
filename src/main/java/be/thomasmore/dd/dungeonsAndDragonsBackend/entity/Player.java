@@ -15,6 +15,15 @@ public class Player {
     @Column(name="id")
     private int id;
 
-    @Column(name="name")
-    private String name;
+    @Column(name = "username")
+    private String username;
+
+    @Column(name = "firstname")
+    private String firstname;
+
+    @Column(name = "lastname")
+    private String lastname;
+
+    @Column(name = "email")
+    private String email;
 }
