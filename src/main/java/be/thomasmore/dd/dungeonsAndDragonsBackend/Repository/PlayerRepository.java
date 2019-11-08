@@ -1,6 +1,6 @@
-package be.thomasmore.dd.dungeonsAndDragonsBackend.repository;
+package be.thomasmore.dd.dungeonsAndDragonsBackend.Repository;
 
-import be.thomasmore.dd.dungeonsAndDragonsBackend.entity.Player;
+import be.thomasmore.dd.dungeonsAndDragonsBackend.Entity.Player;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 

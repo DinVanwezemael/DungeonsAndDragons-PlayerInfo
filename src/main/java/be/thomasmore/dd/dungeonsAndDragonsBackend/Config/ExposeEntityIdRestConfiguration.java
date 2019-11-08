@@ -1,6 +1,6 @@
-package be.thomasmore.dd.dungeonsAndDragonsBackend.config;
+package be.thomasmore.dd.dungeonsAndDragonsBackend.Config;
 
-import be.thomasmore.dd.dungeonsAndDragonsBackend.entity.Player;
+import be.thomasmore.dd.dungeonsAndDragonsBackend.Entity.Player;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;

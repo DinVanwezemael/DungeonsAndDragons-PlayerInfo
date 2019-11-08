@@ -1,4 +1,4 @@
-package be.thomasmore.dd.dungeonsAndDragonsBackend.entity;
+package be.thomasmore.dd.dungeonsAndDragonsBackend.Entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 @Entity
-@Table(name="player")
+@Table(name="Player")
 @Data
 @NoArgsConstructor
 public class Player {
