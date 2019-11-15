@@ -1,4 +1,4 @@
-package be.thomasmore.dd.dungeonsAndDragonsBackend.Entity;
+package be.thomasmore.playerinfoservice.Entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

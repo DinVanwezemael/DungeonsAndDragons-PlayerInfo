@@ -1,10 +1,10 @@
-package be.thomasmore.dd.dungeonsAndDragonsBackend;
+package be.thomasmore.playerinfoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DungeonsAndDragonsBackendApplicationTests {
+class PlayerRepositoryTests {
 
 	@Test
 	void contextLoads() {
