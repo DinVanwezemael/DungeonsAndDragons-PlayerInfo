@@ -2,7 +2,7 @@
 
 De Microservice player-info gaan we gebruiken voor het bewaren van verschillende "users".
 
-## Parameters
+## Gegevens
 
 In de player-info zullen we de volgende parameters gaan opslaan:
 
