@@ -8,5 +8,5 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @CrossOrigin
 public interface PlayerRepository extends JpaRepository<Player, Integer> {
-    Player findPlayerById(@Param("id") int id);
+//    Player findPlayerById(@Param("id") int id);
 }
