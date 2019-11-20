@@ -31,7 +31,7 @@ public class PlayerServiceApplication {
 	public String greet() {
 		log.info("Access /greeting");
 
-		List<String> greetings = Arrays.asList("Hi there8001", "Greetings8001", "Salutations8001");
+		List<String> greetings = Arrays.asList("Hi there8003", "Greetings8003", "Salutations8003");
 		Random rand = new Random();
 
 		int randomNum = rand.nextInt(greetings.size());
