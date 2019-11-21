@@ -29,4 +29,5 @@ public class Player {
 
     @Column(name = "password")
     private String password;
+
 }
