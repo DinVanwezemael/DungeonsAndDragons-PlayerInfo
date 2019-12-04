@@ -92,6 +92,12 @@ charisma
 ## Race-controller
 ![race-controller](https://dinvanwezemael.space/java/race-controller.png)
 
+## Player-controller
+![player-controller](https://dinvanwezemael.space/java/player-controller.png)
+
+## Character-controller
+![character-controller](https://dinvanwezemael.space/java/character-controller.png)
+
 ## Front-end
 We hebben gebruik gemaakt van Angular om de font-end te realiseren, we hebben hiervoor gekozen omdat dit een zeer populair framework is en nog steeds aan het groeien is. Ook bied Angular de mogelijkheid om onze applicatie mobile te maken.
 
