@@ -15,7 +15,7 @@ password
 email
 ```
 
-##Thema
+## Thema
 Onze applicatie zal spelers van het spel Dungeons and Dragons de mogelijkheid geven om een overzicht te geven van de bestaande characters in het spel. We geven spelers ook de mogelijk om zelf een character aan te maken. zo kunnen ze makkeijk kiezen uit alle bestaande Classes, Races en Alignments.
 
 
@@ -89,7 +89,10 @@ wisdom
 charisma
 ```
 
-##Front-end
+## Race-controller
+![race-controller](https://dinvanwezemael.space/java/race-controller.png)
+
+## Front-end
 We hebben gebruik gemaakt van Angular om de font-end te realiseren, we hebben hiervoor gekozen omdat dit een zeer populair framework is en nog steeds aan het groeien is. Ook bied Angular de mogelijkheid om onze applicatie mobile te maken.
 
 ## Extra info
